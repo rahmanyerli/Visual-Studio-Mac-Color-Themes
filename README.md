@@ -1,3 +1,5 @@
+# Visual Studio Mac Color Themes
+
 Elegant Color themes for Visual Studio Mac users.
 
 ## One Dark Color Theme
@@ -10,3 +12,9 @@ Elegant Color themes for Visual Studio Mac users.
 
 ## Ra Color Theme
 ![Ra Color Theme](images/ra.png)
+
+### How to install a new color theme?
+
+Follow the instructions in the documentation by clicking the link below.
+
+[Microsoft Docs](https://docs.microsoft.com/en-us/visualstudio/mac/editor-themes?view=vsmac-2019)
