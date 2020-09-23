@@ -1,6 +1,6 @@
 # Visual Studio Mac Color Themes
 
-Elegant Color themes for Visual Studio Mac users.
+Elegant Color themes for Visual Studio Mac users. Go to [Repository](https://github.com/rahmanyerli/Visual-Studio-Mac-Color-Themes)
 
 ## One Dark Color Theme
 ![One Dark Color Theme](images/one-dark.png)
