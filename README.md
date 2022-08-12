@@ -4,6 +4,9 @@ Elegant Color themes for Visual Studio Mac users. Go to [Repository](https://git
 
 [Visit Website...](https://rahmanyerli.github.io/Visual-Studio-Mac-Color-Themes)
 
+## Darcula Color Theme
+![Darcula Color Theme](images/darcula.png)
+
 ## One Dark Color Theme
 ![One Dark Color Theme](images/one-dark.png)
 
