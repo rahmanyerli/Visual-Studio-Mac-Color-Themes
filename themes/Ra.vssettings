@@ -43,14 +43,14 @@
 							<Item Name="Preprocessor Keyword" Foreground="0x008899CC" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Keyword" Foreground="0x008899CC" Background="0x02000000" BoldFont="No"/>
 							<Item Name="keyword - control" Foreground="0x008899CC" Background="0x02000000" BoldFont="No"/>
-							<Item Name="XML Doc Comment" Foreground="0x00706660" Background="0x02000000" BoldFont="No"/>
-							<Item Name="XML Doc Tag" Foreground="0x00706660" Background="0x02000000" BoldFont="No"/>
+							
 							<Item Name="CSS Comment" Foreground="0x00706660" Background="0x02000000" BoldFont="No"/>
 							<Item Name="CSS Keyword" Foreground="0x008899CC" Background="0x02000000" BoldFont="No"/>
 							<Item Name="CSS Property Name" Foreground="0x009988CC" Background="0x02000000" BoldFont="No"/>
 							<Item Name="CSS Property Value" Foreground="0x0088BB88" Background="0x02000000" BoldFont="No"/>
 							<Item Name="CSS Selector" Foreground="0x00BB90BB" Background="0x02000000" BoldFont="No"/>
 							<Item Name="CSS String Value" Foreground="0x0088BB88" Background="0x02000000" BoldFont="No"/>
+							
 							<Item Name="HTML Attribute" Foreground="0x00BB90BB" Background="0x02000000" BoldFont="No"/>
 							<Item Name="HTML Attribute Value" Foreground="0x0088BB88" Background="0x02000000" BoldFont="No"/>
 							<Item Name="HTML Comment" Foreground="0x00706660" Background="0x02000000" BoldFont="No"/>
@@ -59,13 +59,18 @@
 							<Item Name="HTML Operator" Foreground="0x00CCCCCC" Background="0x02000000" BoldFont="No"/>
 							<Item Name="HTML Server-Side Script" Foreground="0x00CCCCCC" Background="0x004C4038" BoldFont="No"/>
 							<Item Name="HTML Tag Delimiter" Foreground="0x00CCCCCC" Background="0x02000000" BoldFont="No"/>
+							
 							<Item Name="Razor Code" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							
 							<Item Name="Script Comment" Foreground="0x00706660" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Script Identifier" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Script Keyword" Foreground="0x008899CC" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Script Number" Foreground="0x0088BB88" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Script Operator" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Script String" Foreground="0x0088BB88" Background="0x02000000" BoldFont="No"/>
+							
+							<Item Name="XML Doc Comment" Foreground="0x00706660" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XML Doc Tag" Foreground="0x00706660" Background="0x02000000" BoldFont="No"/>
 							<Item Name="XML Attribute" Foreground="0x00BB90BB" Background="0x02000000" BoldFont="No"/>
 							<Item Name="XML Attribute Quotes" Foreground="0x0088BB88" Background="0x02000000" BoldFont="No"/>
 							<Item Name="XML Attribute Value" Foreground="0x0088BB88" Background="0x02000000" BoldFont="No"/>
@@ -73,7 +78,8 @@
 							<Item Name="XML Comment" Foreground="0x00706660" Background="0x02000000" BoldFont="No"/>
 							<Item Name="XML Delimiter" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
 							<Item Name="XML Name" Foreground="0x008899CC" Background="0x02000000" BoldFont="No"/>
-							<Item Name="XML Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XML Text" Foreground="0x00CCCCCC" Background="0x02000000" BoldFont="No"/>
+							
 							<Item Name="XAML Attribute" Foreground="0x00BB90BB" Background="0x02000000" BoldFont="No"/>
 							<Item Name="XAML Attribute Quotes" Foreground="0x00000000" Background="0x02000000" BoldFont="No"/>
 							<Item Name="XAML Attribute Value" Foreground="0x0088BB88" Background="0x02000000" BoldFont="No"/>
@@ -84,7 +90,8 @@
 							<Item Name="XAML Markup Extension Parameter Name" Foreground="0x00BB90BB" Background="0x02000000" BoldFont="No"/>
 							<Item Name="XAML Markup Extension Parameter Value" Foreground="0x0088BB88" Background="0x02000000" BoldFont="No"/>
 							<Item Name="XAML Name" Foreground="0x008899CC" Background="0x02000000" BoldFont="No"/>
-							<Item Name="XAML Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Text" Foreground="0x00CCCCCC" Background="0x02000000" BoldFont="No"/>
+							
 							<Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x004C4038" BoldFont="No"/>
 							<Item Name="outlining.square" Foreground="0x00555555" Background="0x00E2E2E2" BoldFont="No"/>
 							<Item Name="outlining.verticalrule" Foreground="0x00A5A5A5" Background="0x02000000" BoldFont="No"/>
